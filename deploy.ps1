@@ -1,3 +1,3 @@
 #Requires -Version 6
-cd ./va/VirtualAssistantSample
+cd ./va_skill
 ./Deployment/Scripts/deploy.ps1
